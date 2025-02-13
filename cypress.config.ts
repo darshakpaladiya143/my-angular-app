@@ -7,5 +7,6 @@ export default defineConfig({
       bundler: "webpack",
     },
     specPattern: "**/*.spec.ts",
+    // specPattern: 'src/**/*.cy.ts',
   },
 });
